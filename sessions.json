@@ -1,0 +1,27 @@
+{
+  "sessions": [
+    {
+      "id": "689818355:689818355",
+      "data": {
+        "language": "en",
+        "waitingForModelName": true,
+        "modelName": "t",
+        "userGender": "male",
+        "waitingForTrainingPhotos": true,
+        "trainingPhotosArray": [
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_5.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_7.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_5.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_4.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_3.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/photos/file_6.jpg",
+          "https://api.telegram.org/file/bot7012982067:AAEUczs9PbSbTAbdepu9p73lYKy1yWGLzAE/documents/file_13.jpg"
+        ],
+        "mediaGroupTracker": {
+          "13920329262355386": true
+        },
+        "subscriptionLevel": "pro"
+      }
+    }
+  ]
+}

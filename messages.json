@@ -1,0 +1,104 @@
+{
+    "tech_problems_no_language_message": "🤖 Уважаемые пользователи! В данный момент мы сталкиваемся с техническими неполадками, которые могут временно ограничить работу бота. Мы уже активно работаем над их устранением, чтобы восстановить полную функциональность как можно скорее. Приносим извинения за возможные неудобства и благодарим вас за терпение и понимание! 🙏 Если у вас есть срочные вопросы или предложения, пожалуйста, свяжитесь с нашей службой поддержки: @Artem_Gradusov. Спасибо, что вы с нами! ❤️\n-------------------------------\n",
+    "tech_problems_with_language_message": {
+        "ru": "🤖 Уважаемые пользователи! В данный момент мы сталкиваемся с техническими неполадками, которые могут временно ограничить работу бота. Мы уже активно работаем над их устранением, чтобы восстановить полную функциональность как можно скорее. Приносим извинения за возможные неудобства и благодарим вас за терпение и понимание! 🙏 Если у вас есть срочные вопросы или предложения, пожалуйста, свяжитесь с нашей службой поддержки: @Artem_Gradusov. Спасибо, что вы с нами! ❤️",
+        "en": "🤖 Dear users, We are currently experiencing technical issues that may temporarily limit the bot's functionality. Our team is actively working to resolve them and restore full functionality as soon as possible. We apologize for any inconvenience caused and appreciate your patience and understanding! 🙏 If you have any urgent questions or suggestions, please feel free to contact our support team: @Artem_Gradusov. Thank you for being with us! ❤️"
+    },
+    "choose_language_message": "Выберите язык 🇷🇺\n-------------\nChoose language 🇺🇸",
+    "start_message": {
+      "ru": "Привет! Я — Snapix, инновационный ИИ, который создает реалистичные фотографии с тобой. Твои снимки будут выглядеть так, словно их сделал настоящий профессионал. Благодаря обучению на огромном количестве изображений, наша технология передает каждую деталь с потрясающей точностью.",
+      "en": "Hi! I'm Snapix, an innovative AI that creates realistic photos of you. Your pictures will look like they were taken by a real professional. Trained on a vast collection of images, our technology captures every detail with stunning accuracy."
+    },
+    "learn_more_step_1": {
+      "ru": "Мария – начинающий блогер Использует Snapix для создания стильных и разнообразных фотографий. И уже набрала больше 500 подписчиков! 🥳",
+      "en": "Maria – blogger. She uses Snapix to create stylish and diverse photos. And she has already gained more than 500 followers! 🥳"
+    },
+    "learn_more_step_2": {
+        "ru": "Андрей – IT-специалист Знает, что качественная фотография в резюме и LinkedIn играет важную роль. Воспользовался Snapix и благодаря этому получил работу своей мечты.",
+        "en": "Andrey – IT specialist. He knows that a high-quality photo in a resume and LinkedIn plays an important role. He used Snapix and, thanks to this, got his dream job."
+    },
+    "learn_more_step_3": {
+        "ru": "Без ограничений по возрасту! Александр уже создал и начал оформлять свой аккаунт в Instagram.",
+        "en": "No age limits! Alexander has already created and started setting up his Instagram account."
+    },
+    "learn_more_step_4": {
+        "ru": "Создай свой уникальный образ. Ведь, все чем ты ограничен – твоя фантазия!",
+        "en": "Create your unique look. After all, the only limit is your imagination!"
+    },
+    "learn_more_step_5": {
+        "ru": "Давай создадим клона с твоими фото!",
+        "en": "Let's create a clone with your photos!"
+    },
+    "learn_more_step_6": {
+        "ru": "Введи название своей модели, используя английское слово без пробелов Примеры: emmaFischer, Emma_Fischer Название будет использоваться для идентификации твоих моделей при создании фото",
+        "en": "Enter the name of your model using an English word without spaces. Examples: emmaFischer, Emma_Fischer The name will be used to identify your models when creating photos."
+    },
+    "learn_more_step_7": {
+        "ru": "Выберите пол (для улучшения генерации фотографий)",
+        "en": "Select your gender (to improve photo generation)"
+    },
+    "learn_more_step_8": {
+        "ru": "Пол выбран:{{selected_gender}} \nТеперь загрузи 10-15 ваших фотографий для обучения модели. Постарайся выбрать очень разнообразные фото: - в полный рост - портрет или селфи, где хорошо видно ваше лицо и нет падающих теней - фото в купальнике или в открытой одежде - фото в разной одежде - фото с бородой и без бороды для мужчин. Для более точной генерации фигуры рекомендуем добавить фото в открытой одежде! Не используй фото, где есть посторонние люди или предметы (очки, животные, головные уборы).",
+        "en": "Selected gender: {{selected_gender}} \nNow upload 10-15 of your photos to train the model. Try to choose a diverse selection of photos: Full-body shots Portraits or selfies where your face is clearly visible without shadows Photos in swimwear or open clothing Photos in different outfits For men: photos with and without a beard For more accurate body generation, we recommend adding photos in open clothing! Do not use photos with other people or objects (glasses, animals, hats)."
+    },
+    "learn_more_step_9": {
+        "ru": "Выбери фотографии или архив с фотографиями и загрузи! Когда закончишь загружать фото нажми на кнопку «Перейти к обучению»",
+        "en": "Select photos or a photo archive and upload them! When you finish uploading photos, click on the “Go to training” button"
+    },
+    "learn_more_photos_uploaded": {
+        "ru": "📸 Фото загружено! Всего загружено: {{photos_amount}}. Загрузите еще несколько фоток или нажмите кнопку ниже, чтобы начать обучение модели.",
+        "en": "📸 Photo uploaded! A total of {{photos_amount}} photos have been uploaded. Upload a few more photos or click the button below to start training the model."
+    },
+    "upload_photos_buy_subscription": {
+        "ru": "текста пока нет",
+        "en": "no text yet"
+    },
+    "buy_subscription_intro": {
+        "ru": "Предлагаем",
+        "en": "We offer"
+    },
+    "buy_subscription_standart": {
+        "ru": "Стандарт",
+        "en": "Standart"
+    },
+    "buy_subscription_start": {
+        "ru": "Старт",
+        "en": "Start"
+    },
+    "buy_subscription_pro": {
+        "ru": "Про",
+        "en": "Pro"
+    },
+    "choose_payment_method": {
+        "ru": "Выберите способ оплаты",
+        "en": "Choose payment method"
+    },
+    "card_payment_unavailable": {
+        "ru": "Приносим свои извинения, оплата картой в данный момент недоступна",
+        "en": "We apologize, card payments are not available at this time."
+    },
+    "telegram_stars_payment_description_standart": {
+        "ru": "Описание подписки стандарт",
+        "en": "Standart subscripton description"
+    },
+    "telegram_stars_payment_description_start": {
+        "ru": "Описание подписки старт",
+        "en": "Start subscripton description"
+    },
+    "telegram_stars_payment_description_pro": {
+        "ru": "Описание подписки про",
+        "en": "Pro subscripton description"
+    },
+    "stars_invoice_description_start": {
+        "ru": "Описание подписки старт",
+        "en": "Start subscripton description"
+    },
+    "stars_invoice_description_standart": {
+        "ru": "Описание подписки стандарт",
+        "en": "Standart subscripton description"
+    },
+    "stars_invoice_description_pro": {
+        "ru": "Описание подписки про",
+        "en": "Pro subscripton description"
+    }
+}
